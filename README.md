@@ -1,1 +1,0 @@
-# sehbaw.github.io
