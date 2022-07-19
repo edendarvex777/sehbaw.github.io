@@ -1,0 +1,25 @@
+/*background rgb (2,0,36);
+background linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); --> 
+*/ 
+@media max-width1024px {
+
+}
+body {
+    background-image: linear-gradient(95deg, rgb(232, 86, 86,0.7), rgb(49, 49, 205,0.7));
+    /*background-repeat:y;*/
+    font-family: 'Merriweather', serif;
+
+}
+
+#headline{
+    text-align:center;
+    font-size:3em;
+    font-family: 'Merriweather', serif;
+}
+
+.mustcenter{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
