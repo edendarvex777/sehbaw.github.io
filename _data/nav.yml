@@ -2,11 +2,11 @@
 - name: "Syllabus"
   link: "/"
 
-- name: "Student Blogs"
-  link: "studentblogs"
+- name: "Portfolio"
+  link: ""
 
-- name: "GitHub"
-  link: "https://github.com/nicolehe/ITP-hello-computer-f21"
+- name: "Contact"
+  link: "contact"
  
-- name: "Schedule"
-  link: "schedule"
+- name: ""
+  link: ""
