@@ -1,6 +1,6 @@
 
 - name: "Syllabus"
-  link: "/"
+  link: "" 
 
 - name: "Portfolio"
   link: ""
@@ -8,5 +8,5 @@
 - name: "Contact"
   link: "contact"
  
-- name: ""
-  link: ""
+#- name: ""
+ # link: ""
