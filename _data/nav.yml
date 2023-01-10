@@ -1,12 +1,13 @@
 
-- name: "Syllabus"
-  link: "" 
+#- name: ""
+#  link: "/" 
 
 - name: "Portfolio"
-  link: ""
+  link: "/"
 
 - name: "Contact"
   link: "contact"
  
 #- name: ""
- # link: ""
+ #0 link: ""
+
