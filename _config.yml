@@ -1,5 +1,5 @@
 title: "Sehba's Portfolio Website"
-#url: "https://sehbaw.github.io"
+url: "https://sehbaw.github.io"
 # gem: "researcher"
 #remote_theme: ankitsultana/researcher
 
@@ -9,7 +9,7 @@ tracking_id: #
 
 
 footer: yes
-# footer_url: "https://github.com/bk2dcradle"
+# footer_url: "https://github.com/sehbaw"
 footer_text: "© Sehba Wani 2022"
 
 sass:

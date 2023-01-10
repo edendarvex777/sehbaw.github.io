@@ -12,17 +12,18 @@ Hi! I am a junior studying Information Science at UMD.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Currently, I am working on my own individual research in the realm of social data science. I am 
 
 ## More about me
+
+In my free time, I really enjoy reading, watching movies, and consuming art of any kind. I feel super lucky to live near places such as Baltimore and Washington D.C. that are filled with art!
 
 
 ## Works
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+[link](portfolio). Something *italics* and something **bold**.
 
-Here is a table
-
+Here is a tabl
 
 Here is a horizontal rule
 
@@ -30,6 +31,8 @@ Here is a horizontal rule
 
 Something I always think of: 
 
-> Sometimes all you need discipline and a banging playlist to push through. 
+> Treat people the way you want to be treated yet don't treat the way people have treated you.  
 
-## References
+## More
+
+Check out the rest of my website to learn more about what I am working on, my public links, and how to get in contact with me!
