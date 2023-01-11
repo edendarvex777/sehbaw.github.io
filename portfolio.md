@@ -28,8 +28,8 @@ A university event, with a focus on tech for the aging community.
 
 ### Technica Research 
 
-**Topics**:
-- Being understood by computers
+**Topic**:
+- Coded Public News Transparency Tools
 - Introduction to speech-to-text
 
 **Assignment**: Homework 2, due September 16
