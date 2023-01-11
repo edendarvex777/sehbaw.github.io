@@ -1,18 +1,24 @@
-title: "Sehba's Portfolio Website"
-url: "https://sehbaw.github.io"
-# gem: "researcher"
-#remote_theme: ankitsultana/researcher
+title: Sehba Wani 
+url: "https://sehbaw.com"
+baseurl: "/student"
 
 markdown: kramdown
+#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-
 footer: yes
-# footer_url: "https://github.com/sehbaw"
-footer_text: "© Sehba Wani 2022"
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Sehba Wani 2022"
 
 sass:
     style: compressed
     sass_dir: _sass
 
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Portfolio"
+   link: "portfolio.md"
+ - name: "Contact"
+   link: "contact"
