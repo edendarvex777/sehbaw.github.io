@@ -6,8 +6,7 @@ layout: default
 
 <img class="profile-picture" src=" ">
 
-Hi! I am a junior studying Information Science at UMD. 
-
+Hi! I am a junior studying Information Science at UMD. I come from a technical background, 
 
 
 ## Research Interest
@@ -18,12 +17,11 @@ Currently, I am working on my own individual research in the realm of social dat
 
 In my free time, I really enjoy reading, watching movies, and consuming art of any kind. I feel super lucky to live near places such as Baltimore and Washington D.C. that are filled with art!
 
-
 ## Works
+Currently I am working on building more data insights for open data and 
 
-[link](portfolio). Something *italics* and something **bold**.
+[link](portfolio.md). 
 
-Here is a tabl
 
 Here is a horizontal rule
 
