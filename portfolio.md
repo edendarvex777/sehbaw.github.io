@@ -4,12 +4,11 @@ layout: default
 
 ## SCHEDULE
 
-### Week 1 (September 2)
+### Cook With Me 
 
-**Topics**:
-- Introductions, syllabus
-- "Conventional" uses of voice technology
-- Introduction to text-to-speech
+A university event, with a focus on tech for the aging community. 
+
+- Winner of 5,000 prize
 
 **Assignment**: Homework 1, due September 9
 - **Creative Assignment**: Create something that takes non-speech input from a person and responds with speech synthesis.
@@ -19,6 +18,8 @@ layout: default
    
 - Join the class Discord (link will be sent out via email) and discuss the media assignments there.
 - Share your blog link with Nicole.
+
+[Link to Presentation]()
   
 **Extra Links**:
 - [Nicole's Git and Github tutorial](https://www.youtube.com/watch?v=PdLTopQ253g)
